@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Early Years Practitioner",
+    "company": "Sunshine Nursery",
+    "location": "Blackburn, Lancashire",
+    "category": "Practitioner",
+    "type": "Full-time",
+    "salary": "£22,000 – £25,000",
+    "posted": "2026-07-01",
+    "description": "We are looking for a passionate Early Years Practitioner to join our dedicated team. You will support children aged 0–5 in their learning and development, creating a safe and nurturing environment.",
+    "requirements": ["Level 3 Early Years qualification or above", "Experience working with children aged 0–5", "Strong communication skills", "DBS check required"],
+    "applyEmail": "jobs@sunshirenursery.co.uk"
+  },
+  {
+    "id": 2,
+    "title": "Room Leader – Toddler Room",
+    "company": "Bright Futures Day Nursery",
+    "location": "Burnley, Lancashire",
+    "category": "Leadership",
+    "type": "Full-time",
+    "salary": "£26,000 - 29,000",
+    "posted": "2026-07-03",
+    "description": "An exciting opportunity for an experienced Room Leader to manage our busy toddler room. You will lead a small team, plan activities, and liaise with parents and carers.",
+    "requirements": ["Level 3 Early Years qualification (minimum)", "Previous room leadership experience", "EYFS knowledge", "Paediatric First Aid desirable"],
+    "applyEmail": "recruitment@brightfutures.co.uk"
+  },
+  {
+    "id": 3,
+    "title": "Special Educational Needs (SEN) Support Worker",
+    "company": "Rainbow Children's Centre",
+    "location": "Preston, Lancashire",
+    "category": "SEN",
+    "type": "Part-time",
+    "salary": "£12.50 – £14.00 per hour",
+    "posted": "2026-07-05",
+    "description": "We are seeking a compassionate SEN Support Worker to work alongside children with additional needs, helping them access learning and thrive in our inclusive setting.",
+    "requirements": ["Experience supporting children with SEN", "Understanding of SEND Code of Practice", "Patient and empathetic approach", "Level 2 qualification or above preferred"],
+    "applyEmail": "info@rainbowcc.co.uk"
+  }
+]
